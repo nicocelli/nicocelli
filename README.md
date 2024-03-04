@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Juliano Nicocelli 👋
+
+
+- 🔭 I’m currently working on @qualifiquei with C#, python, on cloud environment (Azure and Aws)
+- 🌱 I’m currently learning about Azure and system design [roadmap](https://roadmap.sh/backend)
+- 💬 Ask me about software engineering and  software architecture of SAAS solutions ...
+- 📫 How to reach me: work.nicocelli@gmail.com
+- ⚡ Balancing code and coffee
 
 <!--
 **nicocelli/nicocelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +26,7 @@ Here are some ideas to get you started:
 - C#
 - Python
 - Angular
-- PostgreSQL, MSSQL
+- PostgreSQL, MSSQL, Redis
 - AWS and Azure
 - SAAS / Business Models
 
