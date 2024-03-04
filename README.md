@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=leo-holanda&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=nicocelli&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Familiar with
 - C#
