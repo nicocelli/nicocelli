@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on @qualifiquei with C#, python, on cloud environment (Azure and Aws)
 - 🌱 I’m currently learning about Azure and system design [roadmap](https://roadmap.sh/backend)
-- 💬 Ask me about software engineering and  software architecture of SAAS solutions ...
+- 💬 Ask me about software engineering and software architecture of SAAS solutions ...
 - 📫 How to reach me: work.nicocelli@gmail.com
 - ⚡ Balancing code and coffee
 
@@ -22,13 +22,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :hammer_and_wrench: Familiar with
-- C#
-- Python
-- Angular
-- PostgreSQL, MSSQL, Redis
-- AWS and Azure
-- SAAS / Business Models
+### 🪓 Working with
+- C# - Dotnet 6, to create robusts backend solutions
+- AWS and Azure, serverless and monolithic environments
+- Python, for web scraping, data manipulation, and scripting
+- Angular / FlutterFlow for frontend development
+- PostgreSQL, MSSQL, Redis and Firestore for database management
+- SAAS and Business Models expertise
+
+
+### :hammer_and_wrench: Studing Now
+- System Design
+- ElastisSearch
+- Azure Services
 
 ### Find me
 
